@@ -2,7 +2,6 @@
 
 <h6 align="center">Full Stack Web Developer | Machine Learning</h6>
 
-<hr />
 
 <p align="left">I'm a curious coder who loves turning ideas into cool stuff with code. I’m into full-stack dev, real-time apps, and throwing in some AI magic where it makes sense. I enjoy learning new tech, building things that matter, and occasionally debugging at 2AM with snacks and good music.</p>
 
@@ -85,7 +84,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adisraut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="160" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisraut&theme=dark&hide_border=false" height="160" alt="streak graph" />
-
 </div>
 
 <hr />
